@@ -1,5 +1,5 @@
-# swiftheart-succinct-prover-puzzle0
-swiftheart-succinct-prover-puzzle0
+# swiftheart-succinct-prover-puzzle
+swiftheart-succinct-prover-puzzle
 <!DOCTYPE html>
 <html lang="en">
 <head>
